@@ -12,7 +12,7 @@ from scripthelper import (
     Config, Logger, ConnectionManager, GeneralFuncs,
     BigQueryManager, EmailManager, ApiFuncs
 )
-ghghghghghghghgh
+
 # Initialize Oracle client
 oracledb.init_oracle_client(lib_dir=r"C:\oracle\instantclient\instantclient_23_5")
 
